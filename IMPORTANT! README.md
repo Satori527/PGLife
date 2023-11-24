@@ -4,7 +4,8 @@ PGLife is a Full Stack Web App utilizing React.js, PHP, and MySQL, catering to a
 The project was developed while I was learning various technologies, including HTML, CSS, Bootstrap, JS, JSX, AJAX, DBMS, PHP, and React.js. The final project culminated in a React App that encompasses both Front-End and Back-End components.
 
 FRONT-END
-To See the Front End of the Web App You can see the Images I have Included in PGLife_Site_Preview Folder.
+To See the Front End of the Web App You can use thr Front-End only version in PGLife_FrontEnd_Only folder as it doesn't require local XAMPP hosting and MYSQL server Database to build and running but AJAX and bckend features won't be working.
+I also have added some Images in PGLife_Site_Preview Folder for the Web App.
 
 BACK-END
 The back-end is a locally hosted development environment created using XAMPP's Apache and MySQL components. The data required for the Front-End is stored in SQL files. Without XAMPP's simulated server, direct viewing of the Front-End may not be possible. However, I have provided the database queries and data.
